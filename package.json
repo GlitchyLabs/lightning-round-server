@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "engines": {
-    "node": ">= 6"
+    "node": "= 8.14.0"
   },
   "author": {
     "name": "Alex Van Camp",
